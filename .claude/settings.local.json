@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api *)",
+      "Bash(Copy-Item -Recurse -Force \"d:\\\\Development\\\\claude_code_design\\\\apple-side\\\\.claude\\\\skills\\\\ui-ux-pro-max\" \"C:\\\\Users\\\\mshah\\\\.claude\\\\skills\\\\ui-ux-pro-max\")",
+      "Bash(python \"C:\\\\Users\\\\mshah\\\\.claude\\\\skills\\\\ui-ux-pro-max\\\\scripts\\\\search.py\" \"apple product launch premium dark technology scroll cinematic\" --design-system --persist -p \"Apple Side\")",
+      "Bash(python \"C:\\\\Users\\\\mshah\\\\.claude\\\\skills\\\\ui-ux-pro-max\\\\scripts\\\\search.py\" \"scroll animation cinematic immersive premium\" --domain ux)",
+      "Bash(python \"C:\\\\Users\\\\mshah\\\\.claude\\\\skills\\\\ui-ux-pro-max\\\\scripts\\\\search.py\" \"dark luxury premium tech product\" --domain style)",
+      "Bash(npx --yes serve . --listen 3200)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3200/)",
+      "Bash(python -c ' *)",
+      "Bash(Get-ChildItem -Path \"d:\\\\Development\\\\claude_code_design\\\\apple-side\\\\\" -Recurse | Select-Object FullName)"
+    ],
+    "additionalDirectories": [
+      "d:\\Development\\claude_code_design\\apple-side\\.claude\\skills\\ui-ux-pro-max"
+    ]
+  }
+}
